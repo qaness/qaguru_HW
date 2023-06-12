@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
 
 
-public class HW4SoftAssertion {
+public class SoftAssertions {
 
     @BeforeAll
     static void beforeAll() {
